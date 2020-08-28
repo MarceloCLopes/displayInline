@@ -1,0 +1,2 @@
+# displayInline
+display: inline;
