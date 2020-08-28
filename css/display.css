@@ -1,0 +1,21 @@
+.exemple {
+  color: #ffffff;
+  text-align: center;
+}
+
+/*Colocar os elementos em uma única linha*/
+.exemple-item {
+  display: inline;
+}
+
+.exemple-item_first {
+  background-color: #faa116;
+}
+
+.exemple-item_second {
+  background-color: #57c7c3;
+}
+
+.exemple-item_third {
+  background-color: #3b97d3;
+}
